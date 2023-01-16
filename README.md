@@ -1,2 +1,2 @@
 # sloppasaur.github.io
-FIrst Website
+First Website
