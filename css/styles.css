@@ -11433,3 +11433,22 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+#videoal {
+  /* ... put any margin, padding, etc. here you like */
+  margin: auto;
+}
+
+#videoal div.video {
+  display: inline-block;
+  zoom: 1;
+  *display: inline;
+  width: 200px;
+  height: 320px;
+  margin: 0 10px 10px 0;
+}
+
+#videoal div.video video {
+  width: 100%;
+  height: 100%;
+}
